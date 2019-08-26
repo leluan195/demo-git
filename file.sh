@@ -5,3 +5,4 @@ sua giao dien
  them giao dien logout
 chinh sua
 sua loi
+fix bug
